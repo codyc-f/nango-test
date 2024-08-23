@@ -6,8 +6,7 @@
 
 ### backend
 
-1. Open `cd backend`.
-2. run `node backend/app.mjs`
+1. run `node backend/app.mjs`
 
 
 ### frontend
