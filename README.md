@@ -1,3 +1,9 @@
+
+### SETUP NANGO
+
+[text](<Screen Recording 2024-08-23 at 2.26.05 PM.mov>) <-click on the link and click view raw. it will download a video which is a walkthrough to create the integration and the script in order to get emails
+
+
 ### backend
 
 1. Open `cd backend`.
@@ -19,4 +25,4 @@ then emails should appear on the screen
 
 ***make sure to change the .env to your nango secret-key,
 
-[text](<Screen Recording 2024-08-23 at 2.26.05 PM.mov>) <-click on the link and click view raw. it will download a video which explains how to create the integration and the script in order to get emails
+
