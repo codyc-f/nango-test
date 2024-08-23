@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nango Gmail Connection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border: none;
+            border-radius: 8px;
+        }
+        #status {
+            margin-top: 20px;
+        }
+        #emails {
+            text-align: left;
+            margin-top: 20px;
+        }
+        .email {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Nango Gmail Connection</h1>
+    <p>Click the button below to add a Gmail connection using Nango.</p>
+    
+    <button id="connectButton">Add Gmail Connection</button>
+
+    <div id="status"></div>
+    <div id="emails"></div>
+
+    <script type="module" src="./main.js"></script>
+</body>
+</html>
